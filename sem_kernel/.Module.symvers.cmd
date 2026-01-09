@@ -1,0 +1,1 @@
+savedcmd_/home/anjankumar/ldd/sem_kernel/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/anjankumar/ldd/sem_kernel/Module.symvers -T /home/anjankumar/ldd/sem_kernel/modules.order -i Module.symvers -e 

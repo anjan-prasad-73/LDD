@@ -1,0 +1,2 @@
+0x432b4a2b	motor_set_speed	/home/anjankumar/device_drivers/motor_driver	EXPORT_SYMBOL	
+0x56ce2cb8	vblock_backup_to_file	/home/anjankumar/device_drivers/vblock	EXPORT_SYMBOL	

@@ -1,0 +1,1 @@
+savedcmd_/home/anjankumar/ldd/sem_kernel/sem_kernel.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/anjankumar/ldd/sem_kernel/sem_kernel.ko /home/anjankumar/ldd/sem_kernel/sem_kernel.o /home/anjankumar/ldd/sem_kernel/sem_kernel.mod.o

@@ -1,0 +1,1 @@
+savedcmd_/home/anjankumar/device_drivers/assigment1/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/anjankumar/device_drivers/assigment1/Module.symvers -T /home/anjankumar/device_drivers/assigment1/modules.order -i Module.symvers -e 

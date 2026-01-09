@@ -1,0 +1,1 @@
+savedcmd_/home/anjankumar/device_drivers/assigment1/assignment_driver.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/anjankumar/device_drivers/assigment1/assignment_driver.ko /home/anjankumar/device_drivers/assigment1/assignment_driver.o /home/anjankumar/device_drivers/assigment1/assignment_driver.mod.o

@@ -1,0 +1,1 @@
+savedcmd_/home/anjankumar/ldd/sem_kernel/sem_kernel.mod := printf '%s\n'   sem_kernel.o | awk '!x[$$0]++ { print("/home/anjankumar/ldd/sem_kernel/"$$0) }' > /home/anjankumar/ldd/sem_kernel/sem_kernel.mod
